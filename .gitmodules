@@ -240,8 +240,8 @@
 	branch = master
 [submodule "src/code.cloudfoundry.org/route-emitter"]
 	path = src/code.cloudfoundry.org/route-emitter
-	url = https://github.com/cloudfoundry/route-emitter
-	branch = master
+	url = https://github.com/cf-container-networking/route-emitter
+	branch = wip-router-overlay-145318563
 [submodule "src/code.cloudfoundry.org/archiver"]
 	path = src/code.cloudfoundry.org/archiver
 	url = https://github.com/cloudfoundry/archiver
